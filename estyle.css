@@ -1,0 +1,17 @@
+body {
+  background: gray,
+}
+
+
+h1 {
+  background: blue,
+  font-size: 18px,
+  font-family: "Times New Roman", Times, serif;
+  position: relative,
+  margin: 10px; 15px; 10px;
+}
+
+p1 {
+  position: absolute,
+  background: green,
+}
